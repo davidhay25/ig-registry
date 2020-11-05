@@ -6,6 +6,11 @@
       "errors": "grahame|fhir_org"
     },
     {
+      "name": "dh test",
+      "url": "ignore",
+      "errors": "grahame|fhir_org"
+    },
+    {
       "name": "Common HL7 Terminology",
       "url": "http://terminology.hl7.org/package-feed.xml",
       "errors": "utg|hl7_org"
